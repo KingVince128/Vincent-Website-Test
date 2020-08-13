@@ -1,0 +1,75 @@
+/* Look at Index Comment */
+body {
+    color: white;
+    height: 95vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-image: url("https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/gettyimages-688899881-1519413300.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh
+}
+
+.center {
+    margin: auto;
+    width: 50%;
+    color: white
+  }
+
+ol {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    list-style-type: none;
+}
+
+.figma {
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+}
+
+.Page1Text {
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+    text-align: center;
+}
+
+.Page2Text {
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+    
+}
+
+.Page3Text {
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+}
+
+.Page4Text {
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+}
+
+.turntowhite {
+    color: white;
+}
+
+.turntoblack {
+    color: #000000;
+}
+
+.rightpage {
+    margin-right: auto
+}
+
+.center1 {
+    margin: auto;
+    text-align: center;
+    color: white;
+  }
